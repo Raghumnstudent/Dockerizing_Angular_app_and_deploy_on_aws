@@ -1,0 +1,11 @@
+*First I created the angular app
+*converted the my angular app into docker image
+*uploaded my angular app docker image to my docker hub
+*pulled the that docker image into local machine 
+*created the container from docker image
+*I created the instance on my account for deploying docker container
+*Successfully deployed on EC2 instance, please check the bellow link
+http://23.22.185.1:5000/
+*I attached the github link for reference 
+https://github.com/Raghumnstudent/Dockerizing_Angular_app_and_deploy_on_aws
+
